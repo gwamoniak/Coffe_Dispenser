@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app/BootMenu.qml</file>
+        <file>app/CoffeeBrewing.qml</file>
+        <file>app/CoffeeTuning.qml</file>
+        <file>app/main.qml</file>
+        <file>app/MainMenu.qml</file>
+        <file>app/MyStyle.qml</file>
+        <file>app/PageTheme.qml</file>
+        <file>app/StatusBar.qml</file>
+        <file>app/UserMenu.qml</file>
+        <file>icons/black_coffee.png</file>
+        <file>icons/black_tea.png</file>
+        <file>icons/cappuccino.png</file>
+        <file>icons/chocolate.png</file>
+        <file>icons/espresso.png</file>
+        <file>icons/green_tea.png</file>
+        <file>icons/soup.png</file>
+        <file>icons/water.png</file>
+        <file>icons/wifi.png</file>
+        <file>icons/settings.png</file>
+        <file>app/CoffeeModelList.qml</file>
+        <file>app/MySlider.qml</file>
+        <file>icons/coffee-beans.png</file>
+        <file>icons/milk.png</file>
+        <file>icons/sugar_cube.png</file>
+        <file>icons/start_button.png</file>
+        <file>icons/stop_button.png</file>
+        <file>icons/back_button.png</file>
+        <file>icons/home_button.png</file>
+        <file>app/MyBusyIndicator.qml</file>
+    </qresource>
+</RCC>
