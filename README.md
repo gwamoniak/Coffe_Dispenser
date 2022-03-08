@@ -15,7 +15,7 @@ BREWING_PAGE
 ![Brewing_Page](https://user-images.githubusercontent.com/10372651/157281120-f4826db3-8b9e-4c8a-b4bf-fabfe39802fd.png)
 
 
-###Requirements 
+### Requirements 
 Qt version 6.2, however it should work with Qt version 5.15 after few modifications.
 
 It has been tested only on Linux, the Windows and MacOS support will be added soon.
