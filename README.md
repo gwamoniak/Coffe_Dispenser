@@ -1,1 +1,23 @@
 # Coffee_Dispenser
+
+###Overview
+This is a project of Coffee Dispenser.
+It contains the QML and C++ (Controller) implementation. 
+
+###Main Pages:
+![Home_Page](https://user-images.githubusercontent.com/10372651/157280635-1a8c12fc-b1df-4fb3-b783-06137449b5b5.png)
+HOME_PAGE
+
+![Tunning_Page](https://user-images.githubusercontent.com/10372651/157281022-0f0468e5-0bbd-4398-bc39-ce1b94f0dfa4.png)
+TUNNING_PAGE
+
+![Brewing_Page](https://user-images.githubusercontent.com/10372651/157281120-f4826db3-8b9e-4c8a-b4bf-fabfe39802fd.png)
+BREWING_PAGE
+
+###Requirements 
+Qt version 6.2, however it should work with Qt version 5.15 after few modifications.
+
+It has been tested only on Linux, the Windows and MacOS support will be added soon.
+
+
+
