@@ -20,5 +20,8 @@ Qt version 6.2, however it should work with Qt version 5.15 after few modificati
 
 It has been tested only on Linux, the Windows and MacOS support will be added soon.
 
+### Attribute - Icons
+I have used flat icons from:
+<a href="https://www.flaticon.com/free-icons/food" title="food icons">Food icons created by Freepik - Flaticon</a>
 
 
